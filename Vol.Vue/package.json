@@ -19,7 +19,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.4.11",
     "gemini-scrollbar": "^1.5.3",
-    "iview": "^3.2.2",
+    "iview": "^3.5.4",
     "moment": "^2.24.0",
     "nprogress": "^0.2.0",
     "qs": "^6.7.0",
