@@ -19,7 +19,7 @@
     "node-sass": "^4.14.1",
     "nprogress": "^0.2.0",
     "sass-loader": "^8.0.2",
-    "vant": "^2.8.1",
+    "vant": "^2.12.33",
     "video.js": "^7.8.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
